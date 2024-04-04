@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\schla\source\repos\Lab1Schlachter\Lab1Schlachter\Laboratory.cpp(19,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Schlachter.vcxproj -> C:\Users\schla\source\repos\Lab1Schlachter\x64\Debug\Lab1Schlachter.exe
